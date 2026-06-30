@@ -1,8 +1,11 @@
 ---
 lab:
-    topic: Application Insights
-    title: 'Monitor an application with autoinstrumentation'
-    description: 'Learn how to monitor an application in Application Insights without modifying code by configuring autoinstrumentation '
+  topic: Application Insights
+  title: Monitor an application with autoinstrumentation
+  description: 'Learn how to monitor an application in Application Insights without modifying code by configuring autoinstrumentation '
+  duration: 20 minutes
+  level: 300
+  islab: true
 ---
 
 # Monitor an application with autoinstrumentation

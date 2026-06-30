@@ -1,8 +1,15 @@
 ---
 lab:
-    topic: Azure Cosmos DB
-    title: 'Create resources in Azure Cosmos DB for NoSQL using .NET'
-    description: 'Learn how to create database and container resources in Azure Cosmos DB with the Microsoft .NET SDK v3.'
+  topic: Azure Cosmos DB
+  title: Create resources in Azure Cosmos DB for NoSQL using .NET
+  description: Learn how to create database and container resources in Azure Cosmos DB with the Microsoft .NET SDK v3.
+  duration: 30 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - .NET
+    - Azure
+    - Azure Cosmos DB
 ---
 
 # Create resources in Azure Cosmos DB for NoSQL using .NET

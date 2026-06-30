@@ -1,8 +1,15 @@
 ---
 lab:
-    topic: Azure Storage
-    title: 'Create Blob storage resources with the .NET client library'
-    description: 'Learn how to use the Azure Storage .NET client library to create containers, upload and list blobs, and delete containers.'
+  topic: Azure Storage
+  title: Create Blob storage resources with the .NET client library
+  description: Learn how to use the Azure Storage .NET client library to create containers, upload and list blobs, and delete containers.
+  duration: 30 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - .NET
+    - Azure
+    - Azure Storage
 ---
 
 # Create Blob storage resources with the .NET client library

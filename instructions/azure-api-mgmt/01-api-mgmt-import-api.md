@@ -1,8 +1,14 @@
 ---
 lab:
-    topic: Azure API Management
-    title: 'Import and configure an API with Azure API Management'
-    description: 'Learn how to import, publish, and test an API that conforms to the OpenAPI specification.'
+  topic: Azure API Management
+  title: Import and configure an API with Azure API Management
+  description: Learn how to import, publish, and test an API that conforms to the OpenAPI specification.
+  duration: 20 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure API Management
 ---
 
 # Import and configure an API with Azure API Management

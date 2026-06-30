@@ -1,8 +1,14 @@
 ---
 lab:
-    topic: Azure container services
-    title: 'Deploy a container to Azure Container Apps with the Azure CLI'
-    description: 'Learn how to use Azure CLI commands to create a secure Azure Container Apps environment, and deploy a container.'
+  topic: Azure container services
+  title: Deploy a container to Azure Container Apps with the Azure CLI
+  description: Learn how to use Azure CLI commands to create a secure Azure Container Apps environment, and deploy a container.
+  duration: 15 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Container Apps
 ---
 
 # Deploy a container to Azure Container Apps with the Azure CLI

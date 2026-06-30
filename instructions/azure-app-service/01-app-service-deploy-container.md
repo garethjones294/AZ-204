@@ -1,8 +1,14 @@
 ---
 lab:
-    topic: Azure App Service
-    title: 'Deploy a containerized app to Azure App Service'
-    description: 'Learn how to deploy a containerized app to Azure App Service.'
+  topic: Azure App Service
+  title: Deploy a containerized app to Azure App Service
+  description: Learn how to deploy a containerized app to Azure App Service.
+  duration: 15 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure App Service
 ---
 
 # Deploy a containerized app to Azure App Service

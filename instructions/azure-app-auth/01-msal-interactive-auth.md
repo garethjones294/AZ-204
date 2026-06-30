@@ -1,8 +1,13 @@
 ---
 lab:
-    topic: Azure authentication and authorization
-    title: 'Implement interactive authentication with MSAL.NET'
-    description: 'Learn how to implement interactive authentication using the MSAL.NET SDK and acquire a token.'
+  topic: Azure authentication and authorization
+  title: Implement interactive authentication with MSAL.NET
+  description: Learn how to implement interactive authentication using the MSAL.NET SDK and acquire a token.
+  duration: 15 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - .NET
 ---
 
 # Implement interactive authentication with MSAL.NET

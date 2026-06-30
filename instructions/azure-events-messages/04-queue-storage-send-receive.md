@@ -1,8 +1,15 @@
 ---
 lab:
-    topic: Azure events and messaging
-    title: 'Send and receive messages from Azure Queue storage'
-    description: 'Learn how send and messages from Azure Queue storage with the with the .NET Azure.StorageQueues SDK.'
+  topic: Azure events and messaging
+  title: Send and receive messages from Azure Queue storage
+  description: Learn how send and messages from Azure Queue storage with the with the .NET Azure.StorageQueues SDK.
+  duration: 30 minutes
+  level: 500
+  islab: true
+  primarytopics:
+    - .NET
+    - Azure
+    - Azure Queue Storage
 ---
 
 # Send and receive messages from Azure Queue storage

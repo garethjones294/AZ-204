@@ -1,8 +1,15 @@
 ---
 lab:
-    topic: Azure events and messaging
-    title: 'Send and retrieve events from Azure Event Hubs'
-    description: 'Learn how send and retrieve events from Azure Event Hubs with the .NET Azure.Messaging.EventHubs SDK.'
+  topic: Azure events and messaging
+  title: Send and retrieve events from Azure Event Hubs
+  description: Learn how send and retrieve events from Azure Event Hubs with the .NET Azure.Messaging.EventHubs SDK.
+  duration: 30 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - .NET
+    - Azure
+    - Azure Event Hubs
 ---
 
 # Send and retrieve events from Azure Event Hubs

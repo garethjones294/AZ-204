@@ -1,8 +1,14 @@
 ---
 lab:
-    topic: Azure container services
-    title: 'Build and run a container image with Azure Container Registry Tasks'
-    description: 'Learn how to use Azure CLI commands to build and run container images with Azure Container Registry Tasks.'
+  topic: Azure container services
+  title: Build and run a container image with Azure Container Registry Tasks
+  description: Learn how to use Azure CLI commands to build and run container images with Azure Container Registry Tasks.
+  duration: 20 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Container Registry
 ---
 
 # Build and run a container image with Azure Container Registry Tasks

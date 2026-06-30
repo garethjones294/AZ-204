@@ -1,8 +1,14 @@
 ---
 lab:
-    topic: Azure events and messaging
-    title: 'Route events to a custom endpoint with Azure Event Grid'
-    description: 'Learn how to use Azure Event Grid to route events to a custom endpoint.'
+  topic: Azure events and messaging
+  title: Route events to a custom endpoint with Azure Event Grid
+  description: Learn how to use Azure Event Grid to route events to a custom endpoint.
+  duration: 30 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Event Grid
 ---
 
 # Route events to a custom endpoint with Azure Event Grid

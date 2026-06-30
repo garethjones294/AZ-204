@@ -1,8 +1,14 @@
 ---
 lab:
-    topic: Secure solutions in Azure
-    title: "Create and retrieve secrets from Azure Key Vault"
-    description: "Learn how to create a key vault and create and retrieve secrets with Azure CLI, and also programmatically."
+  topic: Secure solutions in Azure
+  title: Create and retrieve secrets from Azure Key Vault
+  description: Learn how to create a key vault and create and retrieve secrets with Azure CLI, and also programmatically.
+  duration: 30 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Key Vault
 ---
 
 # Create and retrieve secrets from Azure Key Vault

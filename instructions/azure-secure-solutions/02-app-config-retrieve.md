@@ -1,8 +1,14 @@
 ---
 lab:
-    topic: Secure solutions in Azure
-    title: "Retrieve configuration settings from Azure App Configuration"
-    description: "Learn how to create an Azure App Configuration resource, and set configuration information with Azure CLI. Then, use the **ConfigurationBuilder** to retrieve settings for you application."
+  topic: Secure solutions in Azure
+  title: Retrieve configuration settings from Azure App Configuration
+  description: Learn how to create an Azure App Configuration resource, and set configuration information with Azure CLI. Then, use the **ConfigurationBuilder** to retrieve settings for you application.
+  duration: 15 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure App Configuration
 ---
 
 # Retrieve configuration settings from Azure App Configuration

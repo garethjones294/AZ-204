@@ -1,8 +1,14 @@
 ---
 lab:
-    topic: Azure container services
-    title: 'Deploy a container to Azure Container Instances using Azure CLI commands'
-    description: 'Learn how to use Azure CLI commands to deploy a container to Azure Container Instances.'
+  topic: Azure container services
+  title: Deploy a container to Azure Container Instances using Azure CLI commands
+  description: Learn how to use Azure CLI commands to deploy a container to Azure Container Instances.
+  duration: 15 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Container Instances
 ---
 
 # Deploy a container to Azure Container Instances using Azure CLI commands

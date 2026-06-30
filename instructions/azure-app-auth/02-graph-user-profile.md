@@ -1,8 +1,13 @@
 ---
 lab:
-    topic: Azure authentication and authorization
-    title: "Retrieve user profile information with the Microsoft Graph SDK"
-    description: "Learn how to retrieve user profile information from Microsoft Graph."
+  topic: Azure authentication and authorization
+  title: Retrieve user profile information with the Microsoft Graph SDK
+  description: Learn how to retrieve user profile information from Microsoft Graph.
+  duration: 15 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Microsoft Graph
 ---
 
 # Retrieve user profile information with the Microsoft Graph SDK
